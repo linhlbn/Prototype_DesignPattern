@@ -1,0 +1,8 @@
+F:\ITEC Advance OOP\test\t2\bin\Debug\t2.exe.config
+F:\ITEC Advance OOP\test\t2\bin\Debug\t2.exe
+F:\ITEC Advance OOP\test\t2\bin\Debug\t2.pdb
+F:\ITEC Advance OOP\test\t2\obj\Debug\t2.csproj.AssemblyReference.cache
+F:\ITEC Advance OOP\test\t2\obj\Debug\t2.csproj.SuggestedBindingRedirects.cache
+F:\ITEC Advance OOP\test\t2\obj\Debug\t2.csproj.CoreCompileInputs.cache
+F:\ITEC Advance OOP\test\t2\obj\Debug\t2.exe
+F:\ITEC Advance OOP\test\t2\obj\Debug\t2.pdb
