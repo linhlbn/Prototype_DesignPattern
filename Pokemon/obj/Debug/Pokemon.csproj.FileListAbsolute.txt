@@ -1,0 +1,8 @@
+F:\ITEC Advance OOP\test\Pokemon\bin\Debug\Pokemon.exe.config
+F:\ITEC Advance OOP\test\Pokemon\bin\Debug\Pokemon.exe
+F:\ITEC Advance OOP\test\Pokemon\bin\Debug\Pokemon.pdb
+F:\ITEC Advance OOP\test\Pokemon\obj\Debug\Pokemon.csproj.AssemblyReference.cache
+F:\ITEC Advance OOP\test\Pokemon\obj\Debug\Pokemon.csproj.SuggestedBindingRedirects.cache
+F:\ITEC Advance OOP\test\Pokemon\obj\Debug\Pokemon.csproj.CoreCompileInputs.cache
+F:\ITEC Advance OOP\test\Pokemon\obj\Debug\Pokemon.exe
+F:\ITEC Advance OOP\test\Pokemon\obj\Debug\Pokemon.pdb
